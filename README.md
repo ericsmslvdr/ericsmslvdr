@@ -1,5 +1,5 @@
 ### Hi There! 👋
-![](https://komarev.com/ghpvc/?username=ericsslvdr&label=PROFILE+VIEWS)
+<!--![](https://komarev.com/ghpvc/?username=ericsslvdr&label=PROFILE+VIEWS)-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=30&color=18BAF7&center=true&vCenter=true&width=900&lines=("ehllo,+wolrd🌎!");<ericsslvdr>)](https://git.io/typing-svg)
 <hr>
