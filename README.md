@@ -1,12 +1,12 @@
 ### Hi There! 👋
-![](https://komarev.com/ghpvc/?username=ericsslvdr&label=PROFILE+VIEWS)
+<!--![](https://komarev.com/ghpvc/?username=ericsslvdr&label=PROFILE+VIEWS)-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=4b3deb&size=30&center=true&vCenter=true&width=900&lines=("ehllo,+wolrd+!")+🌎+;ericssalvador)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=4b3deb&size=30&center=true&vCenter=true&width=900&lines=("ehllo,+wolrd+🌎!")+;ericssalvador)](https://git.io/typing-svg)
 <hr>
 
 <!-- <img href="#" src="namecard.jpg"> -->
 
-<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
+<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="25"> My Socials</h2>
 
 <p>
   <!-- Facebook -->
@@ -27,7 +27,7 @@
 <a href="https://stackoverflow.com/users/18137338/eric-samuel-salvador" target="_blank"><img height="28" src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 
-<!-- <img align ="right" src = " " width="250" height="250"> -->
+<img align ="right" src = "https://media3.giphy.com/media/amUVFzg1wNZKg/giphy.gif?cid=ecf05e47lo25jp1yrt9n74d5whu3goaytehsnsrzzte4uwtb&rid=giphy.gif&ct=g" width="250" height="250">
 
 - 🌱 I’m currently learning Frontend Devlopment
 <!-- - 🤔 I’m looking for help with ... -->
@@ -36,7 +36,7 @@
 
 
 <!-- Technologies -->
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Technologies I Know</h2>                                                                                                                       
+<h2><img src="https://media2.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif?cid=790b76114437b5bdbbfa0412aa5682d45193da582582478b&rid=giphy.gif&ct=s" height="35"> Programming Languages and Technologies</h2>                                                                                                                       
 <p>
   <!-- HTML -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> 
@@ -57,7 +57,7 @@
 </p><br>
 
 <!-- OS-->
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Operating Systems I Already Tried</h2>                                                                                                                      
+<h2><img src="https://media1.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=790b761114dd461de68b0ca382fc1a27d6442a786c5e2c3a&rid=giphy.gif&ct=s" height="35"> Operating Systems I Already Tried</h2>                                                                                                                    
 <p>
   <!-- Windows -->
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25"> 
