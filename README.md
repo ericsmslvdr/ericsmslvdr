@@ -1,7 +1,7 @@
 ### Hi There! 👋
 ![](https://komarev.com/ghpvc/?username=ericsslvdr&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1D0AF6&size=30&center=true&vCenter=true&width=900&lines=("ehllo,+wolrd+!")+🌎+;ericssalvador)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=4b3deb&size=30&center=true&vCenter=true&width=900&lines=("ehllo,+wolrd+!")+🌎+;ericssalvador)](https://git.io/typing-svg)
 <hr>
 
 <!-- <img href="#" src="namecard.jpg"> -->
@@ -25,10 +25,9 @@
   <a href="https://discordapp.com/users/421923934582210562" target="_blank"><img height="28" src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <!-- StackOverflow -->
 <a href="https://stackoverflow.com/users/18137338/eric-samuel-salvador" target="_blank"><img height="28" src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  https://stackoverflow.com/users/18137338/eric-samuel-salvador
 </p>
 
-<!-- <img align ="right" src = "linux.png" width="250" height="250"> -->
+<!-- <img align ="right" src = " " width="250" height="250"> -->
 
 - 🌱 I’m currently learning Frontend Devlopment
 <!-- - 🤔 I’m looking for help with ... -->
@@ -40,9 +39,9 @@
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Technologies I Know</h2>                                                                                                                       
 <p>
   <!-- HTML -->
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> 
   <!-- CSS -->
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"> 
   <!-- JavaScript -->
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"> 
   <!-- Java -->
@@ -52,10 +51,10 @@
   <!-- Linux -->
 <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="25"> 
   <!-- Git -->
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25"> 
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25"> 
   <!-- GitHub -->
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"> 
-</p>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"> 
+</p><br>
 
 <!-- OS-->
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Operating Systems I Already Tried</h2>                                                                                                                      
@@ -72,10 +71,10 @@
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" height="25"> 
   <!-- Arch Linux -->
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="25"> 
-</p>
+</p><br>
 
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2><br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsslvdr&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
 
