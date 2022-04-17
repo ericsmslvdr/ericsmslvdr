@@ -17,6 +17,9 @@
   <a href="https://www.linkedin.com/in/ericssalvador/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <!-- Twitter -->
   <a href="https://twitter.com/ericsslvdr" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  
+  <br>
+  
   <!-- Reddit -->
   <a href="https://www.reddit.com/user/ericsslvdr" target="_blank"><img height="28" src = "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
   <!-- Instagram -->
@@ -27,6 +30,7 @@
 <a href="https://stackoverflow.com/users/18137338/eric-samuel-salvador" target="_blank"><img height="28" src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 
+<br>
 <img align ="right" src = "https://media3.giphy.com/media/amUVFzg1wNZKg/giphy.gif?cid=ecf05e47lo25jp1yrt9n74d5whu3goaytehsnsrzzte4uwtb&rid=giphy.gif&ct=g" width="250" height="250">
 
 - 🌱 I’m currently learning Frontend Devlopment
@@ -45,11 +49,14 @@
   <!-- JavaScript -->
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"> 
   <!-- Java -->
+  
+  <br>
+  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"> 
   <!-- MySQL -->
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25"> 
   <!-- Linux -->
-<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="25"> 
+<img src="	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"> 
   <!-- Git -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25"> 
   <!-- GitHub -->
@@ -65,6 +72,9 @@
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="25"> 
   <!-- Ubuntu -->
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25"> 
+  
+  <br>
+  
   <!-- Linux Mint -->
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height="25"> 
   <!-- Fedora -->
@@ -76,7 +86,7 @@
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2><br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsslvdr&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsslvdr&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=ericsslvdr&theme=midnight-purple&include_all_commits=true&count_private=true)
 
 
 <!--
