@@ -1,81 +1,83 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1D0AF6&size=30&center=true&vCenter=true&width=900&lines=ehllo+wolrd+!+🌎+;Eric+S+Salvador)](https://git.io/typing-svg)
+### Hi There! 👋
+![](https://komarev.com/ghpvc/?username=ericsslvdr&label=PROFILE+VIEWS)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1D0AF6&size=30&center=true&vCenter=true&width=900&lines=("ehllo,+wolrd+!")+🌎+;ericssalvador)](https://git.io/typing-svg)
 <hr>
 
 <!-- <img href="#" src="namecard.jpg"> -->
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
+
 <p>
+  <!-- Facebook -->
   <a href="https://www.facebook.com/ericsslvdr/" target="_blank"><img height="28" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <!-- Messenger -->
+  <a href="m.me/ericsslvdr" target="_blank"><img height="28" src = "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ericssalvador/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <!-- Twitter -->
   <a href="https://twitter.com/ericsslvdr" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://dev.to/pratik_kale" target="_blank"><img height="30" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- Reddit -->
+  <a href="https://www.reddit.com/user/ericsslvdr" target="_blank"><img height="28" src = "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <!-- Instagram -->
   <a href="https://www.instagram.com/ericsslvdr/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/421923934582210562" target="_blank"><img height="28" src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <!-- StackOverflow -->
+<a href="https://stackoverflow.com/users/18137338/eric-samuel-salvador" target="_blank"><img height="28" src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  https://stackoverflow.com/users/18137338/eric-samuel-salvador
 </p>
 
-<img align ="right" src = "linux.png" width="250" height="250">
+<!-- <img align ="right" src = "linux.png" width="250" height="250"> -->
 
 - 🌱 I’m currently learning Frontend Devlopment
-- 🤔 I’m looking for help with Firebase
-- 😄 Pronouns: He/His
-- 📫 How to reach me: kalepratik@protonmail.com
-<br></br>
+<!-- - 🤔 I’m looking for help with ... -->
+- 📫 How to reach me: salvadorericsamuel@gmail.com
+<br>
 
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                                                       
 
+<!-- Technologies -->
+<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Technologies I Know</h2>                                                                                                                       
 <p>
+  <!-- HTML -->
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
+  <!-- CSS -->
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"> 
-<img src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=C&logoColor=black" height="25"> 
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" height="25"> 
+  <!-- JavaScript -->
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"> 
+  <!-- Java -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"> 
+  <!-- MySQL -->
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25"> 
+  <!-- Linux -->
 <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="25"> 
+  <!-- Git -->
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25"> 
+  <!-- GitHub -->
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"> 
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=blue" height="25"> 
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/-Canva-20c4cb?style=flat-square&logo=canva&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/-Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=white" height="25">
 </p>
 
-<h2><img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" height="20"> Latest Blog Posts</h2>  
+<!-- OS-->
+<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Operating Systems I Already Tried</h2>                                                                                                                      
+<p>
+  <!-- Windows -->
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25"> 
+  <!-- Debian -->
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="25"> 
+  <!-- Ubuntu -->
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25"> 
+  <!-- Linux Mint -->
+<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height="25"> 
+  <!-- Fedora -->
+<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" height="25"> 
+  <!-- Arch Linux -->
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="25"> 
+</p>
 
-<!-- BLOG-POST-LIST:START -->
-- [The Secret GitHub Repository ! 🤫](https://dev.to/pratik_kale/the-secret-github-repository-3385)
-- [Customise Your Terminal Using Zsh &amp; powerlevel10k](https://dev.to/pratik_kale/customise-your-terminal-using-zsh-powerlevel10k-1og5)
-<!-- BLOG-POST-LIST:END -->
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
-
-<h2><img src="https://media.tenor.com/images/2c67c79dca6f61769ff19a3d23e7a37f/tenor.gif" height="25"> Random Dev Joke</h2>
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000&textColor=%23ffff&qColor=%23ffffff&aColor=%23ffffff&borderColor=%23&codeColor=%23ffffff)
-
-
- <p align="center"> 
-  Visitors Count<br>
-  <img src="https://profile-counter.glitch.me/pratik-kale20/count.svg" />
-</p>   
-
-<!--
-**pratik-kale20/pratik-kale20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsslvdr&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
 
 
 <!--
