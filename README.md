@@ -29,7 +29,7 @@
 
 <img align ="right" src ="https://media3.giphy.com/media/amUVFzg1wNZKg/giphy.gif?cid=ecf05e47lo25jp1yrt9n74d5whu3goaytehsnsrzzte4uwtb&rid=giphy.gif&ct=g" width="250" height="250" style="margin-top: 20px">
 
-- 🌱 I’m currently learning Frontend Devlopment
+- 🌱 I’m currently learning Front-End Development
 <!-- - 🤔 I’m looking for help with ... -->
 - 📫 How to reach me: salvadorericsamuel@gmail.com
 <br>
