@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning Front-End Development
 <!-- - 🤔 I’m looking for help with ... -->
-- 📫 How to reach me: salvadorericsamuel@gmail.com
+- 📫 How to reach me: ericsmsalvador@gmail.com
 <br>
 
 
@@ -56,22 +56,23 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"> 
 </p><br>
 
+
 <!-- OS-->
-<h2><img src="https://media1.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=790b761114dd461de68b0ca382fc1a27d6442a786c5e2c3a&rid=giphy.gif&ct=s" height="35"> Operating Systems I Already Tried</h2><br>                                                                                                                   
+<!-- <h2><img src="https://media1.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=790b761114dd461de68b0ca382fc1a27d6442a786c5e2c3a&rid=giphy.gif&ct=s" height="35"> Operating Systems I Already Tried</h2><br>                                                                                                                   
 <p>
-  <!-- Windows -->
+ 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25"> 
-  <!-- Debian -->
+
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="25"> 
-  <!-- Ubuntu -->
+
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25"> <br>
-  <!-- Linux Mint -->
+ 
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height="25"> 
-  <!-- Fedora -->
+
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" height="25"> 
-  <!-- Arch Linux -->
+
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="25"> 
-</p><br>
+</p><br> -->
 
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2><br>
