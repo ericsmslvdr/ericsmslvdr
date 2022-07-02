@@ -1,7 +1,7 @@
 
 <!--![](https://komarev.com/ghpvc/?username=ericsslvdr&label=PROFILE+VIEWS)-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=30&color=18BAF7&center=true&vCenter=true&width=900&lines=henlo+der;("ehllo,+wolrd🌎!");<ericsslvdr>;yo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=30&color=18BAF7&center=true&vCenter=true&width=900&lines=henlo+der;oi;("ehllo,+wolrd🌎!");<ericsslvdr>;yo)](https://git.io/typing-svg)
 <hr>
 
 <!-- <img href="#" src="namecard.jpg"> -->
