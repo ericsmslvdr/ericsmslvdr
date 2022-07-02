@@ -26,7 +26,7 @@
 <a href="https://stackoverflow.com/users/18137338/eric-samuel-salvador" target="_blank"><img height="28" src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p> -->
 
-<img align ="right" src ="https://media3.giphy.com/media/amUVFzg1wNZKg/giphy.gif?cid=ecf05e47lo25jp1yrt9n74d5whu3goaytehsnsrzzte4uwtb&rid=giphy.gif&ct=g" width="250" height="250" style="margin-top: 20px">
+<img align ="center" src ="https://media3.giphy.com/media/amUVFzg1wNZKg/giphy.gif?cid=ecf05e47lo25jp1yrt9n74d5whu3goaytehsnsrzzte4uwtb&rid=giphy.gif&ct=g" width="250" height="250" style="margin-top: 20px">
 
 <!-- - 🌱 I’m currently learning Front-End Development
 - 🤔 I’m looking for help with ...
