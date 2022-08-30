@@ -41,24 +41,36 @@
 <!-- Technologies -->
 <h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Techonologies</h2><br>
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> 
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
-height="25"> 
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"><br>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"> 
-
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25"> 
-
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25"> 
-
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"> 
-</p>
+<div>
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
+    height="25"> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25">
+  </div>
+  
+  <br>
+  
+  <div>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25">
+  </div>
+  
+  <br>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"> 
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+  </div>
+  
+  <br>
+  
+  <div>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25"> 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"> 
+  </div>
+</div>
 
 <br>
 
@@ -81,9 +93,10 @@ height="25">
 </p><br> -->
 
 
-<!-- <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2><br>
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> GitHub Stats</h2><br>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsslvdr&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&border_color=0a65f7&border_radius=6px) -->
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsslvdr&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&border_color=0a65f7&border_radius=6px)
+
 
 
 <!--
