@@ -39,7 +39,8 @@
 
 
 <!-- Technologies -->
-<!-- <h2><img src="https://media2.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif?cid=790b76114437b5bdbbfa0412aa5682d45193da582582478b&rid=giphy.gif&ct=s" height="35"> Languages and Tools</h2><br>                                                                                                                      
+<h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Techonologies</h2><br>
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> 
 
@@ -57,7 +58,9 @@ height="25">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25"> 
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"> 
-</p><br> -->
+</p>
+
+<br>
 
 
 <!-- OS-->
