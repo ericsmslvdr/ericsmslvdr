@@ -42,7 +42,7 @@
     - 🌱 I’m currently learning web and mobile development
     <br>
     <br>
-    - 📫 How to reach me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="m.me/ericsslvdr" target="_blank"><img height="20" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
+    - 📫 How to reach me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/m.me/ericsslvdr" target="_blank"><img height="20" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
   </div>
 
   <br>
