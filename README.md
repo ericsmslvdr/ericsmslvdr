@@ -37,8 +37,7 @@
 - 📫 How to reach me: ericsmsalvador@gmail.com
 <br> -->
 
-<div style="display: flex;">
-  <div align="left" style="width: 50%">
+  <div>
     <br>
     <br>
     - 🌱 I’m currently learning web and mobile development
@@ -47,7 +46,6 @@
     - 📫 How to reach me: ericsmsalvador@gmail.com
   </div>
 
-  <div align="center" style="width: 50%;">
 <!-- Technologies -->
 <h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Techonologies</h2>
 <br>
@@ -57,9 +55,9 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
     height="25"> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25">
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="25">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"> 
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25">
   </div>
   
   <br>
@@ -78,9 +76,7 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"> 
   </div>
 </div>
-</div>
 
-</div>
 <br>
 
 
