@@ -37,7 +37,7 @@
     - 🌱 I’m currently learning Web and Mobile Development
     <br>
     <br>
-    - 📫 How to reach me: <a href="m.me/ericsslvdr">ericsslvdr</a>
+    - 📫 How to reach me: ericsmsalvador@gmail.com
   </div>
 
   <br>
@@ -52,6 +52,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
     height="25"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25">
+    <br>
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="25">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"> 
   </div>
