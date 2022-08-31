@@ -38,18 +38,16 @@
 <br> -->
 
 <div style="display: flex;">
-  <div align="left">
-    - 🔭 I’m currently working on ...
-    - 🌱 I’m currently learning ...
-    - 👯 I’m looking to collaborate on ...
-    - 🤔 I’m looking for help with ...
-    - 💬 Ask me about ...
-    - 📫 How to reach me: ...
-    - 😄 Pronouns: ...
-    - ⚡ Fun fact: ...
+  <div align="left" style="width: 50%">
+    <br>
+    <br>
+    - 🌱 I’m currently learning web and mobile development
+    <br>
+    <br>
+    - 📫 How to reach me: ericsmsalvador@gmail.com
   </div>
 
-  <div align="right" style="width: 200px;">
+  <div align="center" style="width: 50%;">
 <!-- Technologies -->
 <h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Techonologies</h2>
 <br>
@@ -59,21 +57,16 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
     height="25"> 
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25">
   </div>
   
   <br>
   
   <div>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25">
-  </div>
-  
-  <br>
-  
-  <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"> 
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
   </div>
   
@@ -82,6 +75,7 @@
   <div>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"> 
   </div>
 </div>
 </div>
