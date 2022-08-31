@@ -39,12 +39,13 @@
 
   <div>
     <br>
-    <br>
     - 🌱 I’m currently learning web and mobile development
     <br>
     <br>
-    - 📫 How to reach me: ericsmsalvador@gmail.com
+    - 📫 How to reach me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="m.me/ericsslvdr" target="_blank"><img height="20" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
   </div>
+
+  <br>
 
 <!-- Technologies -->
 <h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Techonologies</h2>
