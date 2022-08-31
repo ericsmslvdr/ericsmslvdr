@@ -32,17 +32,12 @@
   <img src="https://media1.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=790b761114dd461de68b0ca382fc1a27d6442a786c5e2c3a&rid=giphy.gif&ct=s" width="250" height="250" style="margin: 50px auto;">
 </div>
 
-<!-- - 🌱 I’m currently learning Front-End Development
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ericsmsalvador@gmail.com
-<br> -->
-
   <div>
     <br>
-    - 🌱 I’m currently learning web and mobile development
+    - 🌱 I’m currently learning Web and Mobile Development
     <br>
     <br>
-    - 📫 How to reach me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/m.me/ericsslvdr" target="_blank"><img height="20" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
+    - 📫 How to reach me: <a href="m.me/ericsslvdr">ericsslvdr</a>
   </div>
 
   <br>
