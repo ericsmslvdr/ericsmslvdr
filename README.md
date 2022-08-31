@@ -37,9 +37,22 @@
 - 📫 How to reach me: ericsmsalvador@gmail.com
 <br> -->
 
+<div style="display: flex;">
+  <div align="left">
+    - 🔭 I’m currently working on ...
+    - 🌱 I’m currently learning ...
+    - 👯 I’m looking to collaborate on ...
+    - 🤔 I’m looking for help with ...
+    - 💬 Ask me about ...
+    - 📫 How to reach me: ...
+    - 😄 Pronouns: ...
+    - ⚡ Fun fact: ...
+  </div>
 
+  <div align="right" style="width: 200px;">
 <!-- Technologies -->
-<h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Techonologies</h2><br>
+<h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Techonologies</h2>
+<br>
 
 <div>
   <div>
@@ -71,7 +84,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"> 
   </div>
 </div>
+</div>
 
+</div>
 <br>
 
 
