@@ -1,3 +1,4 @@
+<div align="center">
 
 <!--![](https://komarev.com/ghpvc/?username=ericsslvdr&label=PROFILE+VIEWS)-->
 
@@ -43,7 +44,7 @@
   <br>
 
 <!-- Technologies -->
-<h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Techonologies</h2>
+<h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Technologies</h2>
 <br>
 
 <div>
@@ -115,3 +116,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
