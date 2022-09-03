@@ -5,28 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=30&color=18BAF7&center=true&vCenter=true&width=900&lines=henlo+der;oi;("ehllo,+wolrd🌎!");<ericsslvdr>;yo)](https://git.io/typing-svg)
 <hr>
 
-<!-- <img href="#" src="namecard.jpg"> -->
-
-<!-- <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="25"> My Socials</h2><br> -->
-
-<!-- <p>
-  <a href="https://www.facebook.com/ericsslvdr/" target="_blank"><img height="28" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-
-  <a href="m.me/ericsslvdr" target="_blank"><img height="28" src = "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
-
-  <a href="https://www.linkedin.com/in/ericssalvador/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-
-  <a href="https://twitter.com/ericsslvdr" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a><br>
-
-  <a href="https://www.reddit.com/user/ericsslvdr" target="_blank"><img height="28" src = "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-
-  <a href="https://www.instagram.com/ericsslvdr/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-
-  <a href="https://discordapp.com/users/421923934582210562" target="_blank"><img height="28" src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-
-<a href="https://stackoverflow.com/users/18137338/eric-samuel-salvador" target="_blank"><img height="28" src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-</p> -->
-
 <div align="center" style="display: flex;">
   <img src ="https://media3.giphy.com/media/amUVFzg1wNZKg/giphy.gif?cid=ecf05e47lo25jp1yrt9n74d5whu3goaytehsnsrzzte4uwtb&rid=giphy.gif&ct=g" width="250" height="250" style="margin: 50px auto;">
   <img src="https://media2.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif?cid=790b76114437b5bdbbfa0412aa5682d45193da582582478b&rid=giphy.gif&ct=s" width="250" height="250" style="margin: 50px auto;">
@@ -44,35 +22,15 @@
   <br>
 
 <!-- Technologies -->
-<h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Technologies</h2>
+<h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Languages and Tools</h2>
 <br>
 
 <div>
-  <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
-    height="25"> 
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25">
+    <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php">
     <br>
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"> 
-  </div>
-  
-  <br>
-  
-  <div>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-  </div>
-  
-  <br>
-  
-  <div>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25"> 
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"> 
-  </div>
+    <img src="https://skillicons.dev/icons?i=java,mysql,flutter,dart">
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio"> 
 </div>
 
 <br>
