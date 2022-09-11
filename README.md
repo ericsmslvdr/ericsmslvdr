@@ -15,13 +15,11 @@
     <br>
     - 🌱 I’m currently learning Web and Mobile Development
     <br>
-    <br>
-    - 📫 How to reach me: ericsmsalvador@gmail.com
   </div>
 
   <br>
 
-<!-- Technologies -->
+<!--
 <h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Languages and Tools</h2>
 <br>
 
@@ -36,28 +34,9 @@
 <br>
 
 
-<!-- OS-->
-<!-- <h2><img src="https://media1.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=790b761114dd461de68b0ca382fc1a27d6442a786c5e2c3a&rid=giphy.gif&ct=s" height="35"> Operating Systems I Already Tried</h2><br>                                                                                                                   
-<p>
- 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25"> 
-
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="25"> 
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25"> <br>
- 
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height="25"> 
-
-<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" height="25"> 
-
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="25"> 
-</p><br> -->
-
-
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> GitHub Stats</h2><br>
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsslvdr&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&border_color=0a65f7&border_radius=6px)
-
 
 
 <!--
