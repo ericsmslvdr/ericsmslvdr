@@ -1,8 +1,8 @@
 <div align="center">
 
-<!--![](https://komarev.com/ghpvc/?username=ericsslvdr&label=PROFILE+VIEWS)-->
+<!--![](https://komarev.com/ghpvc/?username=ericsmslvdr&label=PROFILE+VIEWS)-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=30&color=18BAF7&center=true&vCenter=true&width=900&lines=henlo+der;oi;("ehllo,+wolrd🌎!");<ericsslvdr>;yo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=30&color=18BAF7&center=true&vCenter=true&width=900&lines=henlo+der;oi;("ehllo,+wolrd🌎!");<ericsmslvdr>;yo)](https://git.io/typing-svg)
 <hr>
 
 <div align="center" style="display: flex;">
@@ -38,7 +38,6 @@
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> GitHub Stats</h2><br>
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsslvdr&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&border_color=0a65f7&border_radius=6px)
-
 
 <!--
 **ericsslvdr/ericsslvdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
