@@ -2,7 +2,7 @@
 
 <!--![](https://komarev.com/ghpvc/?username=ericsmslvdr&label=PROFILE+VIEWS)-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=30&color=18BAF7&center=true&vCenter=true&width=900&lines=henlo+der;oi;("ehllo,+wolrd🌎!");<ericsmslvdr>;yo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=30&color=18BAF7&center=true&vCenter=true&width=900&lines=Web&nbsp;Development;Mobile&nbsp;Development;<ericsmslvdr>)](https://git.io/typing-svg)
 <hr>
 
 <div align="center" style="display: flex;">
@@ -13,13 +13,13 @@
 
   <div>
     <br>
-    - 🌱 I’m currently learning Web and Mobile Development
+    🌱 I’m currently learning Web and Mobile Development
     <br>
   </div>
 
   <br>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,flutter,vscode">
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,php,laravel,flutter,firebase,vscode">
 <!--
 <h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47d7sgle6ve3314xseonz02plyz4j4y6wff0tvhd8x&rid=giphy.gif&ct=s" height="30"> Languages and Tools</h2>
 <br>
