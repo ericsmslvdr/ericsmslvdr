@@ -18,22 +18,67 @@
   </div>
   <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 600px; margin: auto;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,php">
-    <img src="https://skillicons.dev/icons?i=css">
-    <img src="https://skillicons.dev/icons?i=js">
-    <img src="https://skillicons.dev/icons?i=react">
-    <img src="https://skillicons.dev/icons?i=laravel">
-    <img src="https://skillicons.dev/icons?i=php">
-    <img src="https://skillicons.dev/icons?i=nodejs">
-    <img src="https://skillicons.dev/icons?i=prisma">
-    <img src="https://skillicons.dev/icons?i=mysql">
-    <img src="https://skillicons.dev/icons?i=flutter">
-    <img src="https://skillicons.dev/icons?i=git"> 
-    <img src="https://skillicons.dev/icons?i=github"> 
-    <img src="https://skillicons.dev/icons?i=bitbucket"> 
-    <img src="https://skillicons.dev/icons?i=linux"> 
-    <img src="https://skillicons.dev/icons?i=vscode"> 
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 20px; justify-content: center; margin: auto; border: solid orange;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=html">
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">HTML</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=css">
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">CSS</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=js">
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Javascript</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=react">
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">React</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=laravel">
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Laravel</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=php">
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">PHP</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=nodejs">
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Node.js</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=prisma">
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Prisma ORM</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=mysql">
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">MySQL</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=flutter">
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Flutter</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=git"> 
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Git</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=github"> 
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">GitHub</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=bitbucket"> 
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Bitbucket</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=linux"> 
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Linux</h2>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+        <img src="https://skillicons.dev/icons?i=vscode"> 
+        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">VS Code</h2>
+    </div>
 </div>
 
 <br>
