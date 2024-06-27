@@ -1,7 +1,5 @@
 <div align="center">
 
-<!--![](https://komarev.com/ghpvc/?username=ericsmslvdr&label=PROFILE+VIEWS)-->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=30&color=18BAF7&center=true&vCenter=true&width=900&lines=Web&nbsp;Development;Mobile&nbsp;Development;<ericsmslvdr>)](https://git.io/typing-svg)
 <hr>
 
@@ -13,79 +11,71 @@
 
   <div>
     <br>
-    🌱 I’m currently learning Web and Mobile Development
+    <h2>🌱 I’m currently learning Web and Mobile Development</h2>
     <br>
   </div>
   <br>
 
-<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 20px; justify-content: center; margin: auto; border: solid orange;">
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 20px;">
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=html">
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">HTML</h2>
+        <img src="https://skillicons.dev/icons?i=html" width="30px">
+        <span style="color: #b0b0b0; font-size: 1rem;">HTML</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=css">
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">CSS</h2>
+        <img src="https://skillicons.dev/icons?i=css" width="30px">
+        <span style="color: #b0b0b0; font-size: 1rem;">CSS</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=js">
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Javascript</h2>
+        <img src="https://skillicons.dev/icons?i=js" width="30px">
+        <span style="color: #b0b0b0; font-size: 1rem;">Javascript</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=react">
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">React</h2>
+        <img src="https://skillicons.dev/icons?i=react" width="30px">
+        <span style="color: #b0b0b0; font-size: 1rem;">React</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=laravel">
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Laravel</h2>
+        <img src="https://skillicons.dev/icons?i=laravel" width="30px">
+        <span style="color: #b0b0b0; font-size: 1rem;">Laravel</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=php">
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">PHP</h2>
+        <img src="https://skillicons.dev/icons?i=php" width="30px">
+        <span style="color: #b0b0b0; font-size: 1rem;">PHP</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=nodejs">
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Node.js</h2>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="30px">
+        <span style="color: #b0b0b0; font-size: 1rem;">Node.js</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=prisma">
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Prisma ORM</h2>
+        <img src="https://skillicons.dev/icons?i=prisma" width="30px">
+        <span style="color: #b0b0b0; font-size: 1rem;">Prisma ORM</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=mysql">
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">MySQL</h2>
+        <img src="https://skillicons.dev/icons?i=mysql" width="30px">
+        <span style="color: #b0b0b0; font-size: 1rem;">MySQL</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=flutter">
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Flutter</h2>
+        <img src="https://skillicons.dev/icons?i=flutter" width="30px">
+        <span style="color: #b0b0b0; font-size: 1rem;">Flutter</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=git"> 
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Git</h2>
+        <img src="https://skillicons.dev/icons?i=git" width="30px"> 
+        <span style="color: #b0b0b0; font-size: 1rem;">Git</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=github"> 
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">GitHub</h2>
+        <img src="https://skillicons.dev/icons?i=github" width="30px"> 
+        <span style="color: #b0b0b0; font-size: 1rem;">GitHub</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=bitbucket"> 
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Bitbucket</h2>
+        <img src="https://skillicons.dev/icons?i=bitbucket" width="30px"> 
+        <span style="color: #b0b0b0; font-size: 1rem;">Bitbucket</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=linux"> 
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">Linux</h2>
+        <img src="https://skillicons.dev/icons?i=linux" width="30px"> 
+        <span style="color: #b0b0b0; font-size: 1rem;">Linux</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
-        <img src="https://skillicons.dev/icons?i=vscode"> 
-        <h2 style="text-align: center; color: #b0b0b0; font-size: 0.875rem;">VS Code</h2>
+        <img src="https://skillicons.dev/icons?i=vscode" width="30px"> 
+        <span style="color: #b0b0b0; font-size: 1rem;">VS Code</span>
     </div>
 </div>
-
-<br>
-
-<!--
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> GitHub Stats</h2><br>
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsmslvdr&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&border_color=0a65f7&border_radius=6px)
--->
 </div>
