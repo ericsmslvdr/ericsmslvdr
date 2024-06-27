@@ -16,64 +16,64 @@
   </div>
   <br>
 
-<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 20px;">
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=html" width="30px">
         <span style="color: #b0b0b0; font-size: 1rem;">HTML</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=css" width="30px">
         <span style="color: #b0b0b0; font-size: 1rem;">CSS</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=js" width="30px">
         <span style="color: #b0b0b0; font-size: 1rem;">Javascript</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=react" width="30px">
         <span style="color: #b0b0b0; font-size: 1rem;">React</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=laravel" width="30px">
         <span style="color: #b0b0b0; font-size: 1rem;">Laravel</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=php" width="30px">
         <span style="color: #b0b0b0; font-size: 1rem;">PHP</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=nodejs" width="30px">
         <span style="color: #b0b0b0; font-size: 1rem;">Node.js</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=prisma" width="30px">
         <span style="color: #b0b0b0; font-size: 1rem;">Prisma ORM</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=mysql" width="30px">
         <span style="color: #b0b0b0; font-size: 1rem;">MySQL</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=flutter" width="30px">
         <span style="color: #b0b0b0; font-size: 1rem;">Flutter</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=git" width="30px"> 
         <span style="color: #b0b0b0; font-size: 1rem;">Git</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=github" width="30px"> 
         <span style="color: #b0b0b0; font-size: 1rem;">GitHub</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=bitbucket" width="30px"> 
         <span style="color: #b0b0b0; font-size: 1rem;">Bitbucket</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=linux" width="30px"> 
         <span style="color: #b0b0b0; font-size: 1rem;">Linux</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a;">
+    <div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid #3b3b3b; border-radius: 0.375rem; padding: 0.5rem 1rem; background-color: #1a1a1a; width: calc(15% - 20px); min-width: 150px;">
         <img src="https://skillicons.dev/icons?i=vscode" width="30px"> 
         <span style="color: #b0b0b0; font-size: 1rem;">VS Code</span>
     </div>
