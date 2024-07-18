@@ -11,7 +11,7 @@
 
   <div>
     <br>
-    <h2>🌱 I’m currently learning Web and Mobile Development</h2>
+    <h2>🌱 I’m currently learning ⬆️Front End and ⬇️Back End Development</h2>
     <br>
   </div>
   <br>
